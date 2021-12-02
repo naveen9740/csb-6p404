@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://naveen9740.github.io/csb-6p404/static/css/main.9b1431d8.chunk.css",
+    "main.js": "https://naveen9740.github.io/csb-6p404/static/js/main.595d6a57.chunk.js",
+    "main.js.map": "https://naveen9740.github.io/csb-6p404/static/js/main.595d6a57.chunk.js.map",
+    "runtime-main.js": "https://naveen9740.github.io/csb-6p404/static/js/runtime-main.ad9ffe7e.js",
+    "runtime-main.js.map": "https://naveen9740.github.io/csb-6p404/static/js/runtime-main.ad9ffe7e.js.map",
+    "static/js/2.093dd12b.chunk.js": "https://naveen9740.github.io/csb-6p404/static/js/2.093dd12b.chunk.js",
+    "static/js/2.093dd12b.chunk.js.map": "https://naveen9740.github.io/csb-6p404/static/js/2.093dd12b.chunk.js.map",
+    "index.html": "https://naveen9740.github.io/csb-6p404/index.html",
+    "precache-manifest.df2800bdfff5d3100472533064e9d857.js": "https://naveen9740.github.io/csb-6p404/precache-manifest.df2800bdfff5d3100472533064e9d857.js",
+    "service-worker.js": "https://naveen9740.github.io/csb-6p404/service-worker.js",
+    "static/css/main.9b1431d8.chunk.css.map": "https://naveen9740.github.io/csb-6p404/static/css/main.9b1431d8.chunk.css.map",
+    "static/js/2.093dd12b.chunk.js.LICENSE.txt": "https://naveen9740.github.io/csb-6p404/static/js/2.093dd12b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad9ffe7e.js",
+    "static/js/2.093dd12b.chunk.js",
+    "static/css/main.9b1431d8.chunk.css",
+    "static/js/main.595d6a57.chunk.js"
+  ]
+}
